@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Aymeric2\OneDrive\Documents\Loisir\Number recognition\number writing\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+578715076.index
+1167275426.index

@@ -1,0 +1,10 @@
+We're building a mlp neural network that aims to predict given a 100x100 image the number that is written on it
+Our image is just a 100x100 image with pixel that is either white (0) or black (1).
+
+We will treat this problem as a multi-label classification problem. In fact for the output layer we will have
+an input size of 10 where on each element we will have a probability that the ith element is i
+
+Given the problem we will have an input layer of 100x100 = 10000 size and an output layer of size 10.
+
+For the training and the test it would be nice that it's not the same people that have 
+drawned numbers in the test set and training set.
